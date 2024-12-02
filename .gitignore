@@ -1,0 +1,36 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs
+*.log
+*.out
+*.err
+
+# MongoDB-related files
+*.lock
+mongodump/
+dump/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Miscellaneous
+*.bak
+*.tmp
