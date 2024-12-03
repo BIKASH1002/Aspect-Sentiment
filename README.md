@@ -1,8 +1,10 @@
 # Aspect-Based Sentiment Analysis with MongoDB
 
+<div align = "justify">
+
 Customer reviews are a treasure trove of insights, revealing how users perceive a product and what improvements they desire. Understanding customer sentiment is crucial for driving product improvements and enhancing customer satisfaction. Businesses often face the challenge of deciphering vast amounts of feedback, where reviews can focus on multiple aspects with varied sentiments. Extracting actionable insights from this unstructured data requires advanced tools that can analyze text, identify key product aspects and determine sentiment accurately. This is where natural language processing (NLP) and machine learning converge, enabling businesses to unlock the hidden value in customer reviews. By combining NLP, sentiment analysis and robust data storage, this project empowers organizations to analyze customer feedback and make informed decisions.
 
-## Table of Contents
+## Content
 
 - [Overview](#overview)
 
@@ -112,6 +114,8 @@ The project uses MongoDB Compass for visualizing and managing stored data. Below
 ## Conclusion
 
 This project bridges the gap between unstructured customer feedback and actionable insights using NLP and machine learning. The Stochastic Gradient Descent Classifier ensures accurate sentiment predictions, while MongoDB provides scalable storage for extensive review datasets. By enabling businesses to identify key product aspects and associated sentiments, this project fosters informed decision-making and customer-centric improvements. For future work we can integrate advanced sentiment models like BERT or other transformers for higher accuracy.
+
+</div>
 
 ## Credits
 
