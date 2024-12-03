@@ -5,16 +5,16 @@ The integration with MongoDB ensures scalable and flexible data storage, while a
 
 ## Table of Contents
 
-Overview
+- [Overview](#overview)
 
-Setup
+- [Setup](#setup)
 
-Features
+- [Features](#features)
 
-Procedure
+- [Procedure](#procedure)
 
-Workflow
+- [Workflow](#workflow)
 
-User Interface
+- [Database Interface](#database-interface)
 
-Conclusion
+- [Conclusion](#conclusion)
