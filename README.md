@@ -8,6 +8,8 @@ Customer reviews are a treasure trove of insights, revealing how users perceive 
 
 - [Setup](#setup)
 
+- [Dataset](#dataset)
+
 - [Features](#features)
 
 - [Procedure](#procedure)
@@ -42,3 +44,43 @@ Used a subset of the Amazon Reviews dataset from Kaggle, which contains millions
 - **Sentiment:** Derived from the score (positive for scores >3, negative for scores ≤3).
 
 This dataset serves as the foundation for extracting aspects and analyzing their sentiments. For complete dataset access [click here](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+
+## Features
+
+- **Aspect Extraction:** Identify product-related aspects (e.g., "battery life," "build quality") using NLP models.
+
+- **Sentiment Analysis:** Perform sentiment classification (positive, negative) on extracted aspects.
+
+- **SGDC Classifier Integration:** Utilize the Stochastic Gradient Descent Classifier to achieve 80% accuracy in sentiment classification.
+
+- **Scalable Database Storage:** Store processed reviews and aspects in MongoDB for easy access.
+
+- **User-Friendly Visualization:** Leverage MongoDB Compass for schema and document exploration.
+
+## Procedure
+
+**1. Data Preprocessing:**
+
+- Clean and tokenize the review text.
+
+- Remove stop words and irrelevant phrases.
+
+**2. Aspect Extraction:**
+
+- Use SpaCy and dependency parsing to identify noun chunks and meaningful phrases.
+
+- Apply filters to retain product-relevant terms.
+
+**3. Sentiment Classification:**
+
+- Use the SGDC classifier with a custom pipeline for sentiment prediction.
+
+- Achieve 80% accuracy using test data.
+
+**4. Data Storage:**
+
+- Store the processed data (reviews, aspects, and sentiments) in MongoDB.
+
+**5. Visualization:**
+
+Use MongoDB Compass to explore stored documents and validate the schema.
