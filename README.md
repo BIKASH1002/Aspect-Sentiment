@@ -109,3 +109,10 @@ The project uses MongoDB Compass for visualizing and managing stored data. Below
   <img src = "https://github.com/user-attachments/assets/a3b7931a-c741-4cf7-8c61-98b82e52b495" alt = "Aspect sentiment" width = 50%>
 </div>
 
+## Conclusion
+
+This project bridges the gap between unstructured customer feedback and actionable insights using NLP and machine learning. The Stochastic Gradient Descent Classifier ensures accurate sentiment predictions, while MongoDB provides scalable storage for extensive review datasets. By enabling businesses to identify key product aspects and associated sentiments, this project fosters informed decision-making and customer-centric improvements. For future work we can integrate advanced sentiment models like BERT or other transformers for higher accuracy.
+
+## Credits
+
+- Kaggle: for dataset
