@@ -84,3 +84,28 @@ This dataset serves as the foundation for extracting aspects and analyzing their
 **5. Visualization:**
 
 Use MongoDB Compass to explore stored documents and validate the schema.
+
+## Workflow
+
+## Database Interface
+
+The project uses MongoDB Compass for visualizing and managing stored data. Below are screenshots showcasing the database schema and sample documents.
+
+**1. Database Overview**
+
+<div align = "center">
+  <img src = "https://github.com/user-attachments/assets/5e5cbcc3-4a86-4095-b33e-cdf52793a576" alt = "DB overview" width = 50%>
+</div>
+
+**2. Document with updated sentiments**
+
+<div align = "center">
+  <img src = "https://github.com/user-attachments/assets/085669a4-ba8e-4a2e-b2a2-916de4ed1bc0" alt = "Aspect sentiment" width = 50%>
+</div>
+
+**3. Schema Visualization**
+
+<div align = "center">
+  <img src = "https://github.com/user-attachments/assets/a3b7931a-c741-4cf7-8c61-98b82e52b495" alt = "Aspect sentiment" width = 50%>
+</div>
+
