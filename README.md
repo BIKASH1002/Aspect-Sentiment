@@ -43,7 +43,7 @@ Used a subset of the Amazon Reviews dataset from Kaggle, which contains millions
 
 - **Score:** A numerical rating (e.g., 1 to 5).
 
-- **Sentiment:** Derived from the score (positive for scores >3, negative for scores ≤3).
+- **Sentiment:** Derived from the score (positive for scores > 3, negative for scores ≤ 3).
 
 This dataset serves as the foundation for extracting aspects and analyzing their sentiments. For complete dataset access [click here](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
